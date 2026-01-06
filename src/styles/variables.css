@@ -1,0 +1,29 @@
+
+:root{
+    /* Color tokens */
+    --color-bg: #f5f6fa;
+    --color-text: #1a1a1a;
+    --color-primary: #006eff;
+
+    --color-text-muted: #4c4c4c;
+    --color-text-subtle: #828282;
+    --color-border: #dfdfdf;
+    --color-secondary: #a9a9a9;
+
+    --color-hover: #ebf7ff;
+    --color-hover-soft: #f7fdff;
+
+    /* Surface / effect */
+    --surface-blur: rgba(255, 255, 255, 0.8);
+
+    /* Typography */
+    --font-sans: "SUIT", sans-serif;
+
+    /* Radius */
+    --radius-sm: 0.5rem;
+    --radius-md: 0.75rem;
+
+    /* Border */
+    --border-default: 1px solid var(--color-border);
+    --border-focus: 1px solid var(--color-primary);
+}

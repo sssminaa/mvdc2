@@ -1,0 +1,13 @@
+.sidebar{
+    display: flex;
+    background: #fff;
+    height: 100%;
+    min-width: 280px;
+    border-radius: var(--radius-md);
+}
+.sidebar .sidebar__top{
+    padding: 25px 20px;
+}
+.sidebar__header {
+display: block;
+}
