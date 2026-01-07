@@ -5,7 +5,7 @@ import { NavLink , Link} from "react-router-dom";
 
 const menuList = [
     {label:"Main", to:'/main'},
-    {label:"Analysis", to:'/analysis'},
+    {label:"Analysis", to:'/Analysis'},
     {label:"Issue Log", to:'/issuelog'}
 ]
 
